@@ -1,0 +1,1 @@
+INFLUXDB_TOKEN=Y7cJx2twEw7cQHqV7F9tEZQs2VbwxjfFtgL2QjerRYtl0zmXusHC2iflzCw6BfcDr2-Yvti1Gw_P58GGjPaNqw==
